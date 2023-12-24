@@ -1,6 +1,7 @@
 <h1 align="center">Hi 
 👋, I'm Akhand Pratap Singh</h1>
-![Neon Yellow and Black Simple Modern Motivational Quote LinkedIn Article Cover Image](https://github.com/Apsiingh/Apsiingh/assets/103086084/84f3a22f-a95c-48a5-a594-dd192d99016c)
+
+file:///home/apsingh/Downloads/img.png
 
 <h3 align="center">I'm a very Passionate For Programming and Problem-Solving Enthusiast.</h3>
 
