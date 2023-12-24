@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/apsinhg5508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/apsinhg5508" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://discuss.codechef.com/u/akhand_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://discuss.codechef.com/u/akhand_007" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://discuss.codechef.com/u/akhand_007" target="blank"><img align="center" src="![image](https://github.com/Apsiingh/Apsiingh/assets/103086084/7dce779a-7f1e-4db1-b89d-1d569ce0b1e6)
+" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@a_p_singh5508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@a_p_singh5508" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/apsingh5508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="apsingh5508" height="30" width="40" /></a>
 </p>
