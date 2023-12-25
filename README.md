@@ -25,7 +25,7 @@
 <a href="https://auth.geeksforgeeks.org/user/apsingh5508" target="blank"><img align="center" src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools learning till Now:</h3>
 <p align="left"> 
 
   <a> <img src="https://camo.githubusercontent.com/fe0e7ce421aacac2cc44069a2104dec5090509bca6dc1ab3ecc2548a133a6f29/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" style="max-width: 100%;">
