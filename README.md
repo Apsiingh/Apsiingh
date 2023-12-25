@@ -1,8 +1,6 @@
 <h1 align="center">Hi 
 👋, I'm Akhand Pratap Singh</h1>
 
-![](https://github.com/Apsiingh/Apsiingh/blob/main/img.jpg)
-
 <img align ="center" src="https://github.com/Apsiingh/Apsiingh/blob/main/Untitled%20design.png" height="" width=""  >
 
 <br>
