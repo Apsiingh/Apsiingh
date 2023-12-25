@@ -1,7 +1,7 @@
 <h1 align="center">Hi 
 👋, I'm Akhand Pratap Singh</h1>
 
-<img align="center" alt="coding" width="400" src="https://www.canva.com/design/DAFvVhZPWXU/pr7eflwXzy49Ix1Ngnkxnw/edit?utm_content=DAFvVhZPWXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
 <br>
 <h3 align="center">I'm a very Passionate For Programming and Problem-Solving Enthusiast.</h3>
 
