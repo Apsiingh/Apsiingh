@@ -19,8 +19,6 @@
 <a href="https://www.codechef.com/users/akhand_007" target="blank"><img align="center" src="https://img.icons8.com/ios/50/codechef.png"
  height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/profile/a_p_singh5508" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo" height="30" width="40" /></a>
-
 
 <a href="https://auth.geeksforgeeks.org/user/apsingh5508" target="blank"><img align="center" src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="30" width="40" /></a>
 </p>
