@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/apsinhg5508" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/linkedin.png" height="30" width="40" /></a>
   
-<a href="https://www.codechef.com/users/https://discuss.codechef.com/u/akhand_007" target="blank"><img align="center" src="https://img.icons8.com/ios/50/codechef.png"
+<a href="https://www.codechef.com/users/akhand_007" target="blank"><img align="center" src="https://img.icons8.com/ios/50/codechef.png"
  height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/@a_p_singh5508" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo" height="30" width="40" /></a>
