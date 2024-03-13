@@ -21,7 +21,7 @@
 <a href="https://auth.geeksforgeeks.org/user/apsingh5508" target="blank"><img align="center" src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools learning till Now:</h3>
+## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
