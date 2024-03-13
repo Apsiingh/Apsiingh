@@ -43,9 +43,12 @@
 
 ## 📝 PROJECT's ZONE (Working on Persional Projects)
 
+
+## MINIER PROJECTS
+
 | Project Name                        | GitHub Link                   |    Live Link
 |------------------------------------|----------------------------------------|-------------------------------------------|
-| 🌐  MyCodingProfiles | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) |  [**🔗**](https://sortingalgorithmswebsite.netlify.app/) |
+| 🌐 Legend landing page  |   [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://apsiingh.github.io/LEGEND_landing_Page/) |
 
 
 
