@@ -11,7 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsiingh&label=Profile%20views&color=0e75b6&style=flat" alt="apsiingh" /> </p>
 
-- 📫 How to reach me **a.p.singh5508@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +22,7 @@
 <a href="https://auth.geeksforgeeks.org/user/apsingh5508" target="blank"><img align="center" src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="30" width="40" /></a>
 </p>
 
+- 📫 How to reach me **a.p.singh5508@gmail.com**
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
