@@ -41,7 +41,7 @@
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-    <a href="#"> <img src="https://blog.openreplay.com/images/serving-dynamic-html-using-embedded-javascript-ejs/images/hero.png" height="90" width="90" > </a>
+    <a href="#"> <img src="https://blog.openreplay.com/images/serving-dynamic-html-using-embedded-javascript-ejs/images/hero.png" height="90" width="90" border-radius="10" > </a>
     
 </p>
 
@@ -53,11 +53,14 @@
 | Project Name                        | CodeLink                   |    Live Link
 |------------------------------------|----------------------------------------|-------------------------------------------|
 | 🌐 Legend landing page  | [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://apsiingh.github.io/LEGEND_landing_Page/) |
+| 🌐 DSA With APsingh (UNDER-COSTRUCTION) |  | [**🔗**](https://apsiingh.github.io/DSA-with-Apsingh/) |
+| 🌐 Rock-Paper-Scissors(Game) | [**🔗**](https://github.com/Apsiingh/Rock-Paper-Scissors.git)   | [**🔗**](https://apsiingh.github.io/Rock-Paper-Scissors/)  |
+| 🌐 Spotify-Home-page-UI-Clone | [**🔗**](https://github.com/Apsiingh/Spotify-Clone.git)  |  [**🔗**](https://apsiingh.github.io/Spotify-Clone/)  |
 | 🌐 Amazon Home-page UI-clone   | [**🔗**](https://github.com/Apsiingh/Amazon-UI-Home-Clone.git)|  [**🔗**](https://apsiingh.github.io/Amazon-UI-Home-Clone/) |
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apsiingh&show_icons=true&locale=en" alt="apsiingh" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apsiingh&" alt="apsiingh" /></p>
