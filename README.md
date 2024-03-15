@@ -18,6 +18,8 @@
 <a href="https://www.linkedin.com/in/apsinhg5508" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/linkedin.png" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akhand_007" target="blank"><img align="center" src="https://img.icons8.com/ios/50/codechef.png"
  height="30" width="40" /></a>
+ <a href="https://leetcode.com/Apsingh007/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=256"
+ height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/apsingh5508" target="blank"><img align="center" src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="30" width="40" /></a>
 </p>
 
@@ -39,16 +41,19 @@
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
+    <a href="#"> <img src="https://blog.openreplay.com/images/serving-dynamic-html-using-embedded-javascript-ejs/images/hero.png" height="90" width="90" > </a>
+    
 </p>
 
 ## 📝 PROJECT's ZONE (Working on Persional Projects)
 
 
-## MINIER PROJECTS
+  <h3>👨‍💻👨‍💻MINIER PROJECTS</h3>
 
-| Project Name                        | GitHub Link                   |    Live Link
+| Project Name                        | CodeLink                   |    Live Link
 |------------------------------------|----------------------------------------|-------------------------------------------|
-| 🌐 Legend landing page  |   [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://apsiingh.github.io/LEGEND_landing_Page/) |
+| 🌐 Legend landing page  | [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://apsiingh.github.io/LEGEND_landing_Page/) |
+| 🌐 Amazon Home-page UI-clone   | [**🔗**](https://github.com/Apsiingh/Amazon-UI-Home-Clone.git)|  [**🔗**](https://apsiingh.github.io/Amazon-UI-Home-Clone/) |
 
 
 
