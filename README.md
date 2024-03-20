@@ -50,13 +50,14 @@
 
   <h3>👨‍💻👨‍💻MINIER PROJECTS</h3>
 
-| Project Name                        | CodeLink                   |    Live Link
-|------------------------------------|----------------------------------------|-------------------------------------------|
-| 🌐 Legend landing page  | [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://apsiingh.github.io/LEGEND_landing_Page/) |
-| 🌐 DSA With APsingh (UNDER-COSTRUCTION) |  | [**🔗**](https://apsiingh.github.io/DSA-with-Apsingh/) |
-| 🌐 Rock-Paper-Scissors(Game) | [**🔗**](https://github.com/Apsiingh/Rock-Paper-Scissors.git)   | [**🔗**](https://apsiingh.github.io/Rock-Paper-Scissors/)  |
-| 🌐 Spotify-Home-page-UI-Clone | [**🔗**](https://github.com/Apsiingh/Spotify-Clone.git)  |  [**🔗**](https://apsiingh.github.io/Spotify-Clone/)  |
-| 🌐 Amazon Home-page UI-clone   | [**🔗**](https://github.com/Apsiingh/Amazon-UI-Home-Clone.git)|  [**🔗**](https://apsiingh.github.io/Amazon-UI-Home-Clone/) |
+| Project Name                        | CodeLink                   |    Live Link    |     Teck Stack                           |
+|------------------------------------|----------------------------------------|-------------------------------------------|-------------------------|
+| 🌐 Legend landing page  | [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://apsiingh.github.io/LEGEND_landing_Page/) |HTML ,CSS ,JavaScript  |
+| 🌐 DSA With APsingh (UNDER-COSTRUCTION) |  | [**🔗**](https://apsiingh.github.io/DSA-with-Apsingh/) | HTML ,CSS ,JavaScript |
+| 🌐 Rock-Paper-Scissors(Game) | [**🔗**](https://github.com/Apsiingh/Rock-Paper-Scissors.git)   | [**🔗**](https://apsiingh.github.io/Rock-Paper-Scissors/)  | HTML ,CSS ,JavaScript  |
+| 🌐 Spotify-Home-page-UI-Clone | [**🔗**](https://github.com/Apsiingh/Spotify-Clone.git)  |  [**🔗**](https://apsiingh.github.io/Spotify-Clone/)  | HTML ,CSS  |
+| 🌐 Amazon Home-page UI-clone   | [**🔗**](https://github.com/Apsiingh/Amazon-UI-Home-Clone.git)|  [**🔗**](https://apsiingh.github.io/Amazon-UI-Home-Clone/) | HTML ,CSS|
+| 🌐 Bg-Changer    | [**🔗**]()  | [**🔗**](https://bg-changer-q21mp4ogx-akhands-projects.vercel.app/)   |  HTML ,TailwindCss, React |
 
 
 
