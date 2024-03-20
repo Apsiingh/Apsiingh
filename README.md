@@ -51,7 +51,7 @@
 
 | Project Name                        | CodeLink                   |    Live Link    |     Teck Stack                           |
 |------------------------------------|----------------------------------------|-------------------------------------------|-------------------------|
-
+| 🌐 Gemini Lite  | [**🔗**](https://github.com/Apsiingh/LEGEND_landing_Page.git) |  [**🔗**](https://gemini-lite-iota.vercel.app/) |HTML ,CSS ,React ,Api  |  
 
   <h3>👨‍💻👨‍💻MINIER PROJECTS</h3>
 
