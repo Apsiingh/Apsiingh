@@ -47,6 +47,11 @@
 
 ## 📝 PROJECT's ZONE (Working on Persional Projects)
 
+<h3>👨‍💻👨‍💻MAJOR PROJECTS</h3>
+
+| Project Name                        | CodeLink                   |    Live Link    |     Teck Stack                           |
+|------------------------------------|----------------------------------------|-------------------------------------------|-------------------------|
+
 
   <h3>👨‍💻👨‍💻MINIER PROJECTS</h3>
 
