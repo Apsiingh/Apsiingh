@@ -62,7 +62,7 @@
 | 🌐 Rock-Paper-Scissors(Game) | [**🔗**](https://github.com/Apsiingh/Rock-Paper-Scissors.git)   | [**🔗**](https://apsiingh.github.io/Rock-Paper-Scissors/)  | HTML ,CSS ,JavaScript  |
 | 🌐 Spotify-Home-page-UI-Clone | [**🔗**](https://github.com/Apsiingh/Spotify-Clone.git)  |  [**🔗**](https://apsiingh.github.io/Spotify-Clone/)  | HTML ,CSS  |
 | 🌐 Amazon Home-page UI-clone   | [**🔗**](https://github.com/Apsiingh/Amazon-UI-Home-Clone.git)|  [**🔗**](https://apsiingh.github.io/Amazon-UI-Home-Clone/) | HTML ,CSS|
-| 🌐 Bg-Changer    | [**🔗**](https://github.com/Apsiingh/Bg-Changer.git)  | [**🔗**](https://bg-changer-q21mp4ogx-akhands-projects.vercel.app/)   |  HTML ,TailwindCss, React |
+| 🌐 Bg-Changer    | [**🔗**](https://github.com/Apsiingh/Bg-Changer.git)  | [**🔗**](https://bg-changer-q21mp4ogx-akhands-projects.vercel.app/)   |   React ,TailwindCss |
 
 
 
