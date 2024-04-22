@@ -52,6 +52,9 @@
 | Project Name                        | CodeLink                   |    Live Link    |     Teck Stack                           |
 |------------------------------------|----------------------------------------|-------------------------------------------|-------------------------|
 | 🌐 Gemini Lite  | [**🔗**](https://github.com/Apsiingh/Gemini_lite.git) |  [**🔗**](https://gemini-lite-b281ojvs2-akhands-projects.vercel.app/) |HTML ,CSS ,React ,Api  |  
+| 🌐 WanderLa |  [**🔗**](https://github.com/Apsiingh/Wanderla.git)  |  [**🔗**](https://wanderla.onrender.com/) |   HTML ,  CSS , JavaScript , MongoDB , Node.js , Express.js,RESTful APIs , Passport.js , Joi |
+   
+
 
   <h3>👨‍💻👨‍💻MINIER PROJECTS</h3>
 
